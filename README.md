@@ -3,6 +3,6 @@
 
 <a target="_blank" href="mailto:udson.willams@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ShieldGmail"/> </a>
 
-<h2>🌱 Atualmente estou estagiando e estudando Testes de software </h2>
+<h2>🌱 Atualmente estou estudando e estagiando na área Testes de software </h2>
 <h3>Utilizando ferramentas como:</h3>
 <h4>BDD - RESTASSURED - JAVA - JUNIT - MAVEN - APPIUM - ROBOT</h4>
